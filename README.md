@@ -21,6 +21,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40">
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=me50&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=me50&layout=compact)
+
 
